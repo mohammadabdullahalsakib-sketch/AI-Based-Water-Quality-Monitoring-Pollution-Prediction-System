@@ -1,0 +1,5 @@
+Goto PowerShell and Install it
+& 'C:\Program Files\Python313\python.exe' -m pip install streamlit pandas numpy scikit-learn shap plotly matplotlib
+
+For Run:
+python -m streamlit run app.py
